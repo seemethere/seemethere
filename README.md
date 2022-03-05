@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seemethere&repo=github-readme-stats)](https://github.com/seemethere/github-readme-stats)
+![seemethere's GitHub stats](https://github-readme-stats.vercel.app/api?username=seemethere&count_private=true)
 
 <!--
 **seemethere/seemethere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
